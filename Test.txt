@@ -1,0 +1,2 @@
+This code should be working only when the folder is school
+Not school_master
